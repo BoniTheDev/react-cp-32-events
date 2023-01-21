@@ -1,0 +1,60 @@
+/* Write your CSS here */
+
+.regestration-container {
+  width: 40%;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.click-to-view-tex {
+  color: #475569;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.yet-to-regester-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.yet-to-reg-image {
+  min-height: 400px;
+  max-height: 600px;
+  width: 80%;
+}
+
+.yet-to-regester-text {
+  color: #475569;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.regester-btn {
+  background-color: #0967d2;
+  border: none;
+  outline: none;
+  width: 200px;
+  height: 45px;
+  cursor: pointer;
+  border-radius: 8px;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.regestered {
+  height: 100px;
+  width: 100px;
+}
+.regestered-text {
+  color: #323f4b;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: 'Roboto';
+}
+
+.reg-closed-image {
+  height: 300px;
+  width: 400px;
+}
